@@ -11,6 +11,7 @@ def printer(n)
   else
     puts "#{n}"
   end
+end
 
 counter = 0
 
