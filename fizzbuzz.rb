@@ -19,4 +19,3 @@ counter = 0
   printer(counter)
   counter += 1
 end
-    
